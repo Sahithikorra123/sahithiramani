@@ -1,0 +1,27 @@
+1.	What id devops?
+Devops = development + operations
+Developers= who write code
+Operations = who deploy / manage system
+
+2.	Example: Image you are building a mobile app like swiggy 
+The developer writes code to add “track my order “ feature 
+without Deveops: developer gives code to ops team-> they manually develop-> bugs happen delay
+with Devops: Code is automatically testd and deployed-> customers get updates faster and safely
+DevOps Helps you :
+        Release feature faster( like adding new payment methods in zomato)
+        Fix bugs ( like fixing login issue in IRCTC)
+        Automate repetative task( like server restart, dataset backup)
+
+3.	Plan : Define what to build
+Develop : Write the code
+Build : Compile code into deployable formate
+Test :Check for bugs automatically
+Release  : Approve the build for deployment
+Deploy : push app to server or app store
+Operate : keep app running, fix any issues
+Monitor : analyze performance and feedback
+
+4.	GIT = version control system (local)
+GITHUB : ONLINE platform to store git projects
+
+
