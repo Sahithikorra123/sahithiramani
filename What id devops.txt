@@ -3,7 +3,7 @@ Devops = development + operations
 Developers= who write code
 Operations = who deploy / manage system
 
-2.	Example: Image you are building a mobile app like swiggy 
+2.	Example: Image you are building a mobile app like swiggy and zomato
 The developer writes code to add “track my order “ feature 
 without Deveops: developer gives code to ops team-> they manually develop-> bugs happen delay
 with Devops: Code is automatically testd and deployed-> customers get updates faster and safely
@@ -23,5 +23,6 @@ Monitor : analyze performance and feedback
 
 4.	GIT = version control system (local)
 GITHUB : ONLINE platform to store git projects
+
 
 
