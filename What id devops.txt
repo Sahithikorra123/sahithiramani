@@ -1,4 +1,4 @@
-1.	What id devops?
+1.	devops
 Devops = development + operations
 Developers= who write code
 Operations = who deploy / manage system
@@ -23,6 +23,7 @@ Monitor : analyze performance and feedback
 
 4.	GIT = version control system (local)
 GITHUB : ONLINE platform to store git projects
+
 
 
 
